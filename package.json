@@ -1,0 +1,10 @@
+{
+  "name": "yurilima",
+  "version": "1.0.0",
+  "description": "General Applications",
+  "main": "main.js",
+  "repository": "git@github.com:Yuri-Lima/Server-1.git",
+  "author": "Yuri Lima",
+  "license": "MIT",
+  "private": true
+}
